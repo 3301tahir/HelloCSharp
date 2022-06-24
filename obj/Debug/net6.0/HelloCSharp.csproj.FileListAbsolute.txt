@@ -1,0 +1,15 @@
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/HelloCSharp
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/HelloCSharp.deps.json
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/HelloCSharp.runtimeconfig.json
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/HelloCSharp.dll
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/ref/HelloCSharp.dll
+/home/cyberhelmet/RiderProjects/HelloCSharp/bin/Debug/net6.0/HelloCSharp.pdb
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.AssemblyReference.cache
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfoInputs.cache
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfo.cs
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.dll
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/ref/HelloCSharp.dll
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.pdb
+/home/cyberhelmet/RiderProjects/HelloCSharp/obj/Debug/net6.0/HelloCSharp.genruntimeconfig.cache
